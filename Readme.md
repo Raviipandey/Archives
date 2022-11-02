@@ -1,2 +1,3 @@
-Maven - https://github.com/devopshint/java-app-with-maven
-Python - https://github.com/brianmyers/hello
+- Maven - https://github.com/devopshint/java-app-with-maven
+- Python - https://github.com/brianmyers/hello
+- docker-app - https://devopscube.com/build-docker-image/
